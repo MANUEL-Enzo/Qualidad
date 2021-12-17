@@ -1,5 +1,7 @@
-![Rapport](JPGS/Course1.png)
+![Rapport](JPGS/Course3.png)
+![Rapport](JPGS/Course4.png)
 ![Rapport](JPGS/Course2.png)
+![Rapport](JPGS/Course1.png)
 ![Rapport](JPGS/report_qualidad_page-0001.jpg)
 ![Rapport](JPGS/report_qualidad_page-0002.jpg)
 ![Rapport](JPGS/report_qualidad_page-0003.jpg)
