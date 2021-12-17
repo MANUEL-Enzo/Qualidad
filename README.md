@@ -1,8 +1,12 @@
-
-
+![Rapport](JPGS/Course1.png)
+![Rapport](JPGS/Course2.png)
 ![Rapport](JPGS/report_qualidad_page-0001.jpg)
 ![Rapport](JPGS/report_qualidad_page-0002.jpg)
 ![Rapport](JPGS/report_qualidad_page-0003.jpg)
 ![Rapport](JPGS/report_qualidad_page-0004.jpg)
 ![Rapport](JPGS/report_qualidad_page-0005.jpg)
 ![Rapport](JPGS/report_qualidad_page-0006.jpg)
+![Rapport](JPGS/report_qualidad_page-0007.jpg)
+![Rapport](JPGS/report_qualidad_page-0008.jpg)
+![Rapport](JPGS/report_qualidad_page-0009.jpg)
+![Rapport](JPGS/report_qualidad_page-0010.jpg)
