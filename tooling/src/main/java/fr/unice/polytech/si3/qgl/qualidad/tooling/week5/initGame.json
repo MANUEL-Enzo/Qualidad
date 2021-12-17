@@ -1,0 +1,220 @@
+{
+  "goal": {
+    "mode": "REGATTA",
+    "checkpoints": [
+      {
+        "position": {
+          "x": 4436.633252268803,
+          "y": 1079.3203627079859,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      },
+      {
+        "position": {
+          "x": 1823.1804970638823,
+          "y": 3737.7850162866484,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      },
+      {
+        "position": {
+          "x": 2910.362417699737,
+          "y": 100.58103706312006,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      },
+      {
+        "position": {
+          "x": 3979.263301500684,
+          "y": 3747.7110661149704,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      },
+      {
+        "position": {
+          "x": 1078.604899460228,
+          "y": 1136.3456290166391,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      },
+      {
+        "position": {
+          "x": 4435.802835280849,
+          "y": 1078.131877806144,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      },
+      {
+        "position": {
+          "x": 2856.076872886875,
+          "y": 1982.1287085130757,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      }
+    ]
+  },
+  "ship": {
+    "type": "ship",
+    "position": {
+      "x": 2852.173913043478,
+      "y": 1978.827361563518,
+      "orientation": 0.0
+    },
+    "name": "qualidad",
+    "deck": {
+      "width": 4,
+      "length": 6
+    },
+    "entities": [
+      {
+        "x": 1,
+        "y": 3,
+        "type": "oar"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "type": "oar"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "type": "oar"
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "type": "oar"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "type": "rudder"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "sail",
+        "openned": false
+      }
+    ],
+    "life": 1200,
+    "shape": {
+      "type": "rectangle",
+      "width": 4.0,
+      "height": 6.0,
+      "orientation": 0.0
+    }
+  },
+  "sailors": [
+    {
+      "x": 0,
+      "y": 0,
+      "id": 0,
+      "name": "Luffy Teach"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "id": 1,
+      "name": "Tom Teach"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "id": 2,
+      "name": "Edward Teach"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "id": 3,
+      "name": "Tom Pouce"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "id": 4,
+      "name": "Tom Teach"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "id": 5,
+      "name": "Tom Teach"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "id": 6,
+      "name": "Edward Teach"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "id": 7,
+      "name": "Tom Teach"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "id": 8,
+      "name": "Luffy Teach"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "id": 9,
+      "name": "Luffy Teach"
+    }
+  ],
+  "shipCount": 1
+}

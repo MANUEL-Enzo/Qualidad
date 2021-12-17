@@ -1,0 +1,154 @@
+{
+  "goal": {
+    "mode": "REGATTA",
+    "checkpoints": [
+      {
+        "position": {
+          "x": 3014.322916666665,
+          "y": 3619.7916666666697,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      },
+      {
+        "position": {
+          "x": 2395.833333333335,
+          "y": 1236.9791666666674,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      },
+      {
+        "position": {
+          "x": 358.0729166666633,
+          "y": 345.05208333333445,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      }
+    ]
+  },
+  "ship": {
+    "type": "ship",
+    "position": {
+      "x": 360.0,
+      "y": 320.0,
+      "orientation": 1.5708
+    },
+    "name": "qualidad",
+    "deck": {
+      "width": 3,
+      "length": 5
+    },
+    "entities": [
+      {
+        "x": 1,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "type": "sail",
+        "openned": false
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "type": "rudder"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "type": "oar"
+      }
+    ],
+    "life": 750,
+    "shape": {
+      "type": "rectangle",
+      "width": 3.0,
+      "height": 5.0,
+      "orientation": 0.0
+    }
+  },
+  "sailors": [
+    {
+      "x": 4,
+      "y": 1,
+      "id": 0,
+      "name": "Luffy Teach"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "id": 1,
+      "name": "Luffy Pouce"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "id": 2,
+      "name": "Edward Pouce"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "id": 3,
+      "name": "Edward Teach"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "id": 4,
+      "name": "Jack Pouce"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "id": 5,
+      "name": "Tom Pouce"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "id": 6,
+      "name": "Jack Teach"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "id": 7,
+      "name": "Tom Teach"
+    }
+  ],
+  "shipCount": 1
+}

@@ -1,0 +1,118 @@
+{
+  "ship": {
+    "type": "ship",
+    "position": {
+      "x": 3894.780341373116,
+      "y": -762.1697428610266,
+      "orientation": -1.5223608142864486
+    },
+    "name": "qualidad",
+    "deck": {
+      "width": 3,
+      "length": 7
+    },
+    "entities": [
+      {
+        "x": 6,
+        "y": 1,
+        "type": "rudder"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "type": "sail",
+        "openned": true
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "type": "oar"
+      }
+    ],
+    "life": 1050,
+    "shape": {
+      "type": "rectangle",
+      "width": 3.0,
+      "height": 7.0,
+      "orientation": 0.0
+    }
+  },
+  "visibleEntities": [
+    {
+      "type": "stream",
+      "position": {
+        "x": 5144.039698840838,
+        "y": -499.8240427927923,
+        "orientation": 0.7330382858376184
+      },
+      "shape": {
+        "type": "rectangle",
+        "width": 400.0,
+        "height": 1350.0,
+        "orientation": 0.0
+      },
+      "strength": 10.0
+    },
+    {
+      "type": "reef",
+      "position": {
+        "x": 3567.708333333334,
+        "y": -1126.3020833333342,
+        "orientation": 0.0
+      },
+      "shape": {
+        "type": "circle",
+        "radius": 350.0
+      }
+    }
+  ],
+  "wind": {
+    "orientation": 0.0,
+    "strength": 50.0
+  }
+}

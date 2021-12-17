@@ -1,0 +1,130 @@
+{
+  "goal": {
+    "mode": "REGATTA",
+    "checkpoints": [
+      {
+        "position": {
+          "x": 477.4897680763976,
+          "y": 54.054054054053665,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 100.0
+        }
+      },
+      {
+        "position": {
+          "x": 90.9276944065494,
+          "y": 398.6486486486496,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 50.0
+        }
+      },
+      {
+        "position": {
+          "x": -199.86357435197826,
+          "y": -1.545430450278218E-13,
+          "orientation": 0.0
+        },
+        "shape": {
+          "type": "circle",
+          "radius": 60.0
+        }
+      }
+    ]
+  },
+  "ship": {
+    "type": "ship",
+    "position": {
+      "x": -190.9959072305594,
+      "y": -3.730349362740526E-14,
+      "orientation": 0.9773843811168246
+    },
+    "name": "qualidad",
+    "deck": {
+      "width": 3,
+      "length": 4
+    },
+    "entities": [
+      {
+        "x": 0,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "type": "rudder"
+      }
+    ],
+    "life": 300,
+    "shape": {
+      "type": "rectangle",
+      "width": 3.0,
+      "height": 4.0,
+      "orientation": 0.0
+    }
+  },
+  "sailors": [
+    {
+      "x": 0,
+      "y": 0,
+      "id": 0,
+      "name": "Edward Teach"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "id": 1,
+      "name": "Jack Teach"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "id": 2,
+      "name": "Tom Pouce"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "id": 3,
+      "name": "Luffy Teach"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "id": 4,
+      "name": "Edward Pouce"
+    }
+  ],
+  "shipCount": 1
+}

@@ -1,0 +1,64 @@
+{
+  "ship": {
+    "type": "ship",
+    "position": {
+      "x": 484.09600401254903,
+      "y": 60.7479658112181,
+      "orientation": -2.3541151966924816
+    },
+    "name": "qualidad",
+    "deck": {
+      "width": 3,
+      "length": 4
+    },
+    "entities": [
+      {
+        "x": 0,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "oar"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "oar"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "type": "rudder"
+      }
+    ],
+    "life": 300,
+    "shape": {
+      "type": "rectangle",
+      "width": 3.0,
+      "height": 4.0,
+      "orientation": 0.0
+    }
+  },
+  "visibleEntities": [],
+  "wind": {
+    "orientation": 0.0,
+    "strength": 0.0
+  }
+}
